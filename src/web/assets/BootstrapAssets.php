@@ -40,7 +40,7 @@ class BootstrapAssets extends AssetBundle
             $version = Bootstrap::$plugin->versions['bootstrap'];
 
             // Use CDN in production environment
-            $bootstrapPath = "https://stackpath.bootstrapcdn.com/bootstrap/{$version}/";
+            $bootstrapPath = "https://cdn.jsdelivr.net/npm/bootstrap@{$version}/dist/";
 
         } else {
 
