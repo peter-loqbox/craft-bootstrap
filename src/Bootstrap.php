@@ -45,7 +45,7 @@ class Bootstrap extends Plugin
 
     /** @var array $versions The current versions of each library. Fallback versions by default. */
     public $versions = [
-        'bootstrap' => '4.1.3',
+        'bootstrap' => '4.6.0',
         'jquery'    => '3.3.1',
     ];
 

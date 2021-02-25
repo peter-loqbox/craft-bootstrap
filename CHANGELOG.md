@@ -1,5 +1,10 @@
 # Changelog
 
+## 4.6.0 - 2021-02-25
+
+### Added
+- Updated bootstrap version.
+
 ## 4.1.3.1 - 2019-08-22
 
 ### Added
